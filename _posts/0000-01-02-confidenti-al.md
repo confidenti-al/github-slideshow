@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+**Enemies in War, in Peace Friends**
 Use the left arrow to go back!
